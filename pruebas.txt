@@ -1,0 +1,8 @@
+Pruebas:
+Ingresa 3 -> "Fizz"
+ingresa 6 -> "Fizz"
+Ingresa 5 -> "Buzz"
+Ingresa 25 -> "Buzz"
+Ingresa 15 -> "FizzBuzz"
+Ingresa 2 -> 2 
+Ingresa 1 -> 1

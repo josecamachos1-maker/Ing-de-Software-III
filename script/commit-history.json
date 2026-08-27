@@ -1,0 +1,21 @@
+[
+  {
+    "sha": "HEAD",
+    "author": "pochis",
+    "commit": {
+      "date": "2026-08-27T13:45:04.000Z",
+      "message": "feat: El num fizzbuzzretorna el mismo num",
+      "url": "https://github.com/josecamachos1-maker/Ing-de-Software-III/commit/HEAD"
+    },
+    "stats": {
+      "total": 28,
+      "additions": 28,
+      "deletions": 0,
+      "date": "2026-08-27"
+    },
+    "coverage": 100,
+    "test_count": 3,
+    "failed_tests": 0,
+    "conclusion": "success"
+  }
+]
