@@ -95,17 +95,36 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "76863d304cac26d696ccd665a23034673cb2e8bf",
     "author": "pochis",
     "commit": {
       "date": "2026-08-27T14:21:52.000Z",
       "message": "fix: arreglando el netlify",
-      "url": "https://github.com/josecamachos1-maker/Ing-de-Software-III/commit/HEAD"
+      "url": "https://github.com/josecamachos1-maker/Ing-de-Software-III/commit/76863d304cac26d696ccd665a23034673cb2e8bf"
     },
     "stats": {
       "total": 4,
       "additions": 2,
       "deletions": 2,
+      "date": "2026-08-27"
+    },
+    "coverage": 100,
+    "test_count": 6,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "pochis",
+    "commit": {
+      "date": "2026-08-27T14:26:39.000Z",
+      "message": "fix: funciona netlify",
+      "url": "https://github.com/josecamachos1-maker/Ing-de-Software-III/commit/HEAD"
+    },
+    "stats": {
+      "total": 26,
+      "additions": 8,
+      "deletions": 18,
       "date": "2026-08-27"
     },
     "coverage": 100,

@@ -118,9 +118,15 @@
     "testId": 4
   },
   {
-    "commitId": "HEAD",
+    "commitId": "76863d304cac26d696ccd665a23034673cb2e8bf",
     "commitName": "fix: arreglando el netlify",
     "commitTimestamp": 1787840513786,
     "testId": 5
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "fix: funciona netlify",
+    "commitTimestamp": 1787840800359,
+    "testId": 6
   }
 ]
