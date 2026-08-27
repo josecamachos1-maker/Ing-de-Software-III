@@ -57,17 +57,36 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "a4b034e473edc4c1030e23bf20f26ebcc0b894f3",
     "author": "pochis",
     "commit": {
       "date": "2026-08-27T13:56:57.000Z",
       "message": "feat: el num fizzbuzz recibe un numero multiplo de 3 y 5 y devuelve fizzbuzz",
-      "url": "https://github.com/josecamachos1-maker/Ing-de-Software-III/commit/HEAD"
+      "url": "https://github.com/josecamachos1-maker/Ing-de-Software-III/commit/a4b034e473edc4c1030e23bf20f26ebcc0b894f3"
     },
     "stats": {
       "total": 8,
       "additions": 8,
       "deletions": 0,
+      "date": "2026-08-27"
+    },
+    "coverage": 100,
+    "test_count": 6,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "pochis",
+    "commit": {
+      "date": "2026-08-27T14:12:32.000Z",
+      "message": "feat: Implementacion de boton html y num fizzbuzz en html",
+      "url": "https://github.com/josecamachos1-maker/Ing-de-Software-III/commit/HEAD"
+    },
+    "stats": {
+      "total": 39,
+      "additions": 36,
+      "deletions": 3,
       "date": "2026-08-27"
     },
     "coverage": 100,
