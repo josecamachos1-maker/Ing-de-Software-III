@@ -60,9 +60,55 @@
     "testId": 2
   },
   {
-    "commitId": "HEAD",
+    "commitId": "5d2a443c88a71610949ab342c78daaf30eb7424b",
     "commitName": "feat: El num fizzbuzzimprime Buzz si le pasas 5",
     "commitTimestamp": 1787838725914,
     "testId": 2
+  },
+  {
+    "numPassedTests": 5,
+    "failedTests": 1,
+    "numTotalTests": 6,
+    "timestamp": 1787838809417,
+    "success": false,
+    "testId": 3
+  },
+  {
+    "numPassedTests": 5,
+    "failedTests": 1,
+    "numTotalTests": 6,
+    "timestamp": 1787838821640,
+    "success": false,
+    "testId": 3
+  },
+  {
+    "numPassedTests": 5,
+    "failedTests": 1,
+    "numTotalTests": 6,
+    "timestamp": 1787838886253,
+    "success": false,
+    "testId": 3
+  },
+  {
+    "numPassedTests": 5,
+    "failedTests": 1,
+    "numTotalTests": 6,
+    "timestamp": 1787838895132,
+    "success": false,
+    "testId": 3
+  },
+  {
+    "numPassedTests": 6,
+    "failedTests": 0,
+    "numTotalTests": 6,
+    "timestamp": 1787838979699,
+    "success": true,
+    "testId": 3
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: el num fizzbuzz recibe un numero multiplo de 3 y 5 y devuelve fizzbuzz",
+    "commitTimestamp": 1787839018526,
+    "testId": 3
   }
 ]

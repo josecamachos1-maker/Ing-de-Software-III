@@ -38,12 +38,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "5d2a443c88a71610949ab342c78daaf30eb7424b",
     "author": "pochis",
     "commit": {
       "date": "2026-08-27T13:52:05.000Z",
       "message": "feat: El num fizzbuzzimprime Buzz si le pasas 5",
-      "url": "https://github.com/josecamachos1-maker/Ing-de-Software-III/commit/HEAD"
+      "url": "https://github.com/josecamachos1-maker/Ing-de-Software-III/commit/5d2a443c88a71610949ab342c78daaf30eb7424b"
     },
     "stats": {
       "total": 8,
@@ -53,6 +53,25 @@
     },
     "coverage": 100,
     "test_count": 5,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "pochis",
+    "commit": {
+      "date": "2026-08-27T13:56:57.000Z",
+      "message": "feat: el num fizzbuzz recibe un numero multiplo de 3 y 5 y devuelve fizzbuzz",
+      "url": "https://github.com/josecamachos1-maker/Ing-de-Software-III/commit/HEAD"
+    },
+    "stats": {
+      "total": 8,
+      "additions": 8,
+      "deletions": 0,
+      "date": "2026-08-27"
+    },
+    "coverage": 100,
+    "test_count": 6,
     "failed_tests": 0,
     "conclusion": "success"
   }

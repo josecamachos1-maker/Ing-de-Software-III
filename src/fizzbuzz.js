@@ -1,5 +1,9 @@
 function fizzbuzz(num)
 {
+    if(num%3 == 0 && num%5 == 0)
+    {
+                num = "FizzBuzz"
+    }
     if(num%3 == 0)
     {
         num = "Fizz"
@@ -9,6 +13,7 @@ function fizzbuzz(num)
         {
             num = "Buzz"
         }
+        
     return num + "";
 }
 
