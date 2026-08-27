@@ -5,8 +5,8 @@
   "default": "fizzbuzz.html",
   "type": "module",
   "scripts": {
-    "start": "parcel fizzbuzz.html ",
-    "build": "parcel build fizzbuzz.html ",
+    "start": "parcel fizzbuzz.html index.html",
+    "build": "parcel build fizzbuzz.html index.html",
     "test": "node ./script/tddScript.js",
     "cypress": "cypress open",
     "cypress-run": "cypress run",
