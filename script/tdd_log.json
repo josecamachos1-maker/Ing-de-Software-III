@@ -32,9 +32,23 @@
     "testId": 0
   },
   {
-    "commitId": "HEAD",
+    "commitId": "56a9a43997b43150c986f83bd9dc40736bb40838",
     "commitName": "feat: El num fizzbuzzretorna el mismo num",
     "commitTimestamp": 1787838306070,
     "testId": 0
+  },
+  {
+    "numPassedTests": 4,
+    "failedTests": 0,
+    "numTotalTests": 4,
+    "timestamp": 1787838513600,
+    "success": true,
+    "testId": 1
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: el num fizzbuzz imprime fizz si le pasas 3",
+    "commitTimestamp": 1787838555271,
+    "testId": 1
   }
 ]

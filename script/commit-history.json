@@ -1,11 +1,11 @@
 [
   {
-    "sha": "HEAD",
+    "sha": "56a9a43997b43150c986f83bd9dc40736bb40838",
     "author": "pochis",
     "commit": {
       "date": "2026-08-27T13:45:04.000Z",
       "message": "feat: El num fizzbuzzretorna el mismo num",
-      "url": "https://github.com/josecamachos1-maker/Ing-de-Software-III/commit/HEAD"
+      "url": "https://github.com/josecamachos1-maker/Ing-de-Software-III/commit/56a9a43997b43150c986f83bd9dc40736bb40838"
     },
     "stats": {
       "total": 28,
@@ -15,6 +15,25 @@
     },
     "coverage": 100,
     "test_count": 3,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "pochis",
+    "commit": {
+      "date": "2026-08-27T13:49:14.000Z",
+      "message": "feat: el num fizzbuzz imprime fizz si le pasas 3",
+      "url": "https://github.com/josecamachos1-maker/Ing-de-Software-III/commit/HEAD"
+    },
+    "stats": {
+      "total": 7,
+      "additions": 7,
+      "deletions": 0,
+      "date": "2026-08-27"
+    },
+    "coverage": 100,
+    "test_count": 4,
     "failed_tests": 0,
     "conclusion": "success"
   }

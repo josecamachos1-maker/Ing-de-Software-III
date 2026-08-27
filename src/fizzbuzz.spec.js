@@ -7,6 +7,9 @@ describe("fizzbuzz", () => {
   it("deberia geneerar otro num que no sige una regla", () => {
     expect(fizzbuzz(2)).toEqual("2");
   });
+  it("deberia geneerar otro num que sige una regla", () => {
+    expect(fizzbuzz(3)).toEqual("Fizz");
+  });
 });
 
 
