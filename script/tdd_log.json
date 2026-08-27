@@ -46,9 +46,23 @@
     "testId": 1
   },
   {
-    "commitId": "HEAD",
+    "commitId": "012685099e96e0f54ab5815f48911095ca2a778e",
     "commitName": "feat: el num fizzbuzz imprime fizz si le pasas 3",
     "commitTimestamp": 1787838555271,
     "testId": 1
+  },
+  {
+    "numPassedTests": 5,
+    "failedTests": 0,
+    "numTotalTests": 5,
+    "timestamp": 1787838680648,
+    "success": true,
+    "testId": 2
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: El num fizzbuzzimprime Buzz si le pasas 5",
+    "commitTimestamp": 1787838725914,
+    "testId": 2
   }
 ]

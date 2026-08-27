@@ -10,6 +10,9 @@ describe("fizzbuzz", () => {
   it("deberia geneerar otro num que sige una regla", () => {
     expect(fizzbuzz(3)).toEqual("Fizz");
   });
+  it("deberia geneerar otro num que sige una regla", () => {
+    expect(fizzbuzz(5)).toEqual("Buzz");
+  });
 });
 
 
